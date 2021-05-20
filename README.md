@@ -4,8 +4,11 @@ Third group project of the Front-End Bootcamp. As developers, we were given a ta
 
 ## Contributing
 [Jackson](https://github.com/jacksonrgoodman)
+
 [Colten](https://github.com/coltmay)
+
 [Sidney](https://github.com/SidneyCrandall)
+
 [Bre](https://github.com/Coachbre)
 
 ## License
