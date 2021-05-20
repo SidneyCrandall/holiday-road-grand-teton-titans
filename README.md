@@ -1,9 +1,6 @@
 # Holiday Road from Nashville
-DESC
 
-## Installation
-
-## Usage
+Third group project of the Front-End Bootcamp. As developers, we were given a task to create a travel itenrary for a specific user. We used external APIs to produce dropdowns menus users where users would be allowed to select a National park, eatery, and an attraction along the way.
 
 ## Contributing
 [Jackson](https://github.com/jacksonrgoodman)
